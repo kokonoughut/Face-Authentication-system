@@ -13,3 +13,10 @@ In the case of face identification, a model or system may only has one or a few 
 The face authentication system is a secure and convenient way for users to log into a website. 
 It eliminates the need for users to remember their passwords and provides an additional layer of security to the website.
 The system is easy to use and can be integrated into any website that requires authentication. It is a great way to improve the user experience and enhance the security of the website.
+
+# Outcome
+When non-user tries to enter using face-login.
+![01](https://github.com/kokonoughut/Face-Authentication-system/assets/87522225/35133ef5-6b1d-4038-a6ae-838fcb8313de)
+
+When user tries to login
+![o3](https://github.com/kokonoughut/Face-Authentication-system/assets/87522225/657aa6c6-9fe7-49c2-857b-29561236b06f)
