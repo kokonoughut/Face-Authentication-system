@@ -5,9 +5,9 @@ The system uses a facial recognition technology to authenticate the user’s ide
 The system then compares the user’s face with the one that is stored in the database. If the face matches, the user is granted access to the website.
 
 # Siamese Model
-The system uses the Siamese model for the recognition of stored user’s face.The Siamese model uses one-shot learning to identify the unique features of the user’s face and compare them with the ones that are stored in the database . 
-One-shot learning is a type of machine learning algorithm that compares the similarities and differences between two images. It is used in computer vision to solve problems where the model is given only one instance for training data and has to learn to re-identify that instance in the testing data. 
-In the case of face identification, a model or system may only has one or a few examples of a given person’s face and must correctly identify the person from new photographs with changes to expression, hairstyle, lighting, accessories, and more .This ensures that the system can accurately identify the user’s face and grant access to the website.
+- The system uses the Siamese model for the recognition of stored user’s face.The Siamese model uses one-shot learning to identify the unique features of the user’s face and compare them with the ones that are stored in the database . 
+- One-shot learning is a type of machine learning algorithm that compares the similarities and differences between two images. It is used in computer vision to solve problems where the model is given only one instance for training data and has to learn to re-identify that instance in the testing data. 
+- In the case of face identification, a model or system may only has one or a few examples of a given person’s face and must correctly identify the person from new photographs with changes to expression, hairstyle, lighting, accessories, and more .This ensures that the system can accurately identify the user’s face and grant access to the website.
 
 # Benefits
 The face authentication system is a secure and convenient way for users to log into a website. 
